@@ -69,7 +69,7 @@ export const classData: ClassInfo[] = [
     name: 'Maternal I (1 a 2 anos)',
     etapa: 'maternal',
     periodo: 'integral',
-    turno: 'tarde',
+    turno: 'manhã',
     professor: 'Larissa',
     students: [
       { name: 'Anthony Gomes dos Santos Alves' },
@@ -115,7 +115,7 @@ export const classData: ClassInfo[] = [
     name: 'Maternal II',
     etapa: 'maternal',
     periodo: 'parcial',
-    turno: 'manhã',
+    turno: 'tarde',
     professor: 'Letícia',
     students: [
       { name: 'Cecília da Silva Santos' },
@@ -187,7 +187,7 @@ export const classData: ClassInfo[] = [
     name: 'Maternal III',
     etapa: 'maternal',
     periodo: 'parcial',
-    turno: 'manhã',
+    turno: 'tarde',
     professor: 'Daniele',
     students: [
       { name: 'Adriel Dion Hanson Cordeiro' },
