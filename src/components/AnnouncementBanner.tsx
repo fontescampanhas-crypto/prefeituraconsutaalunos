@@ -24,7 +24,7 @@ const AnnouncementBanner = () => {
 
         {/* Main heading */}
         <h2 className="text-3xl md:text-5xl lg:text-6xl font-black text-white tracking-tight leading-tight">
-          INÍCIO DAS AULAS
+          VOLTA ÀS AULAS
         </h2>
 
         {/* Date highlight */}
