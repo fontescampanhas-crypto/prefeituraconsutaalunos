@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react';
 import Header from '@/components/Header';
+import AnnouncementBanner from '@/components/AnnouncementBanner';
 import SearchAndFilters from '@/components/SearchAndFilters';
 import StudentList from '@/components/StudentList';
 import DocumentsSection from '@/components/DocumentsSection';
@@ -27,6 +28,8 @@ const Index = () => {
       <Header />
       
       <main className="flex-1 container mx-auto px-4 py-8 space-y-8">
+        <AnnouncementBanner />
+        
         <SearchAndFilters
           searchQuery={searchQuery}
           onSearchChange={setSearchQuery}
