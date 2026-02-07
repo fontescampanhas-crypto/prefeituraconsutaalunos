@@ -37,8 +37,13 @@ const AnnouncementBanner = () => {
         </div>
 
         {/* Subtitle */}
-        <p className="text-white/90 text-lg md:text-xl max-w-xl">
-          Aguardamos todos os alunos e famílias para mais um ano letivo!
+        <p className="text-white/90 text-lg md:text-xl max-w-xl font-medium">
+          🎒 Que venha um ano repleto de <span className="text-institutional-yellow font-bold">descobertas</span>, 
+          <span className="text-institutional-yellow font-bold"> amizades</span> e 
+          <span className="text-institutional-yellow font-bold"> conquistas</span>!
+        </p>
+        <p className="text-white/70 text-base">
+          Estamos ansiosos para receber cada um de vocês! 💛
         </p>
       </div>
     </section>
