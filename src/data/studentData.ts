@@ -304,7 +304,7 @@ export const classData: ClassInfo[] = [
     name: '1º Período - Turma 03',
     etapa: 'pre-escola',
     periodo: 'parcial',
-    turno: 'tarde',
+    turno: 'manhã',
     professor: 'Silvana Honorato Teles',
     sala: '03',
     students: [
@@ -332,7 +332,7 @@ export const classData: ClassInfo[] = [
     name: '1º Período - Turma 04',
     etapa: 'pre-escola',
     periodo: 'parcial',
-    turno: 'tarde',
+    turno: 'manhã',
     professor: 'Isabela Aparecida Barra',
     sala: '06',
     students: [
@@ -415,7 +415,7 @@ export const classData: ClassInfo[] = [
     name: '2º Período - Turma 03',
     etapa: 'pre-escola',
     periodo: 'parcial',
-    turno: 'tarde',
+    turno: 'manhã',
     professor: 'Crislaine Silvério',
     sala: '07',
     students: [
@@ -444,7 +444,7 @@ export const classData: ClassInfo[] = [
     name: '2º Período - Turma 04',
     etapa: 'pre-escola',
     periodo: 'parcial',
-    turno: 'tarde',
+    turno: 'manhã',
     professor: 'Magda Patrícia Ferreira',
     sala: '09',
     students: [
